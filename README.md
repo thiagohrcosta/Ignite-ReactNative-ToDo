@@ -9,5 +9,5 @@ This is a challenge developed over the course of Rocketseat's React Native speci
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## How it´s work?
+## How it´s works?
 ![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1663641618/Anima%C3%A7%C3%A3o_p3m2vc.gif)
